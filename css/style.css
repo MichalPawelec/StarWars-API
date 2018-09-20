@@ -1,0 +1,24 @@
+body {
+  margin: 0 auto;
+  width:500px;
+  text-align: center;
+  background: black url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+
+.repertuar {
+
+  padding: 10px;
+  list-style: none;
+}
+
+.repertuar li {
+  padding: 10px;
+}
+
+.repertuar .ticket {
+  display: none;
+  margin-top: 10px;
+}
