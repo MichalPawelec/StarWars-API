@@ -8,17 +8,11 @@ body {
   color: white;
 }
 
-.repertuar {
-
+.episodes {
   padding: 10px;
   list-style: none;
 }
 
-.repertuar li {
+.episodes li {
   padding: 10px;
-}
-
-.repertuar .ticket {
-  display: none;
-  margin-top: 10px;
 }

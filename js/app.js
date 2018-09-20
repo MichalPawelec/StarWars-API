@@ -1,6 +1,6 @@
 $(function() {
 
-  const movieLists = $('.repertuar');
+  const movieLists = $('.episodes');
   const movieUrl = 'https://swapi.co/api/films/';
 
   function insertContent(movies) {
